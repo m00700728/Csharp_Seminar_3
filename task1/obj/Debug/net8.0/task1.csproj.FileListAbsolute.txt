@@ -1,0 +1,15 @@
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\bin\Debug\net8.0\task1.exe
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\bin\Debug\net8.0\task1.deps.json
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\bin\Debug\net8.0\task1.runtimeconfig.json
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\bin\Debug\net8.0\task1.dll
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\bin\Debug\net8.0\task1.pdb
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\obj\Debug\net8.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\obj\Debug\net8.0\task1.AssemblyInfoInputs.cache
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\obj\Debug\net8.0\task1.AssemblyInfo.cs
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\obj\Debug\net8.0\task1.csproj.CoreCompileInputs.cache
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\obj\Debug\net8.0\task1.sourcelink.json
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\obj\Debug\net8.0\task1.dll
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\obj\Debug\net8.0\refint\task1.dll
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\obj\Debug\net8.0\task1.pdb
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\obj\Debug\net8.0\task1.genruntimeconfig.cache
+J:\morozov\GB\Знакомство с языками программирования Lesson 3\Practice\task1\obj\Debug\net8.0\ref\task1.dll

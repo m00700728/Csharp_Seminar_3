@@ -4,13 +4,10 @@
 int[] array = new int[10];
 int count = 0;
 
-for (int i = 0; i < 10;  i++) {
-    array[i] = new Random().Next(1, 101);
-}
-
 Console.Write($"В одномерном массиве из {array.Length} чисел от 1 до 100 [");
 
 for (int i = 0; i < 10; i++) {
+    array[i] = new Random().Next(1, 101);
     if (i != array.Length - 1) {
         Console.Write($"{array[i]}, ");
     } else {
